@@ -1,6 +1,6 @@
 #include "mbed.h"
 #define velo 0.01 // tempo entre os passos
-
+// teste
 //BusOut MP_X(D3, D4, D5, D6); // Motor de Passo do Eixo X
 //BusOut MP_Y(D7, D8, D9, D10); // Motor de Passo do Eixo Y
 //BusOut MP_Z(D11, D12, D13, D14); // Motor de Passo do Eixo Z
